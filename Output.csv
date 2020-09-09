@@ -1,0 +1,51 @@
+,Country,Source,Web Users
+0,(not set),(direct),9
+1,(not set),google,5
+2,Bangladesh,(direct),3
+3,Canada,(direct),9
+4,Canada,google,6
+5,China,(direct),10
+6,China,sogou,10
+7,Côte d’Ivoire,(direct),5
+8,Côte d’Ivoire,linkedin.com,3
+9,Ghana,(direct),12
+10,Ghana,camextreasury.com,4
+11,Ghana,google,13
+12,Ghana,linkedin.com,7
+13,Indonesia,google,7
+14,Ireland,(direct),24
+15,Italy,google,4
+16,Japan,(direct),10
+17,Kenya,(direct),38
+18,Kenya,google,35
+19,Kenya,linkedin.com,15
+20,Malaysia,google,6
+21,Netherlands,(direct),8
+22,Nigeria,(direct),120
+23,Nigeria,google,101
+24,Nigeria,linkedin.com,40
+25,Pakistan,google,4
+26,Pakistan,topdevelopers.co,7
+27,Philippines,google,6
+28,Russia,(direct),4
+29,Saudi Arabia,(direct),4
+30,Saudi Arabia,linkedin.com,6
+31,Senegal,(direct),8
+32,Singapore,google,7
+33,South Africa,(direct),5
+34,Tanzania,(direct),7
+35,Tanzania,linkedin.com,4
+36,Uganda,(direct),6
+37,Ukraine,(direct),31
+38,Ukraine,google,5
+39,United Arab Emirates,(direct),83
+40,United Arab Emirates,goodfirms.co,15
+41,United Arab Emirates,google,29
+42,United Arab Emirates,linkedin.com,6
+43,United Kingdom,(direct),14
+44,United Kingdom,email,4
+45,United Kingdom,google,19
+46,United Kingdom,linkedin.com,5
+47,United States,google,41
+48,Vietnam,(direct),6
+49,Vietnam,goodfirms.co,4
